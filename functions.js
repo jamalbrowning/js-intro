@@ -11,7 +11,7 @@
 // console.log(dogBreed('poodle'));
 
 const any = (number) => {
-  return 42 - number
+  return 42 + number
 }
 
 console.log(any(4));
