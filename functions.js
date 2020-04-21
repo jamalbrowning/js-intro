@@ -10,13 +10,13 @@
 // console.log(dogBreed('lab'));
 // console.log(dogBreed('poodle'));
 
-const any = (number) => {
-  return 42 + number
-}
+// const any = (number) => {
+//   return 42 + number
+// }
 
-console.log(any(4));
+// console.log(any(4));
 
-const old = (yearBorn) => {
-  return 2099 - yearBorn;
-}
-console.log(old(1990));
+// const old = (yearBorn) => {
+//   return 2099 - yearBorn;
+// }
+// console.log(old(1990));
